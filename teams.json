@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "player_count": "0",
+      "players": [],
+      "name": "Celtics",
+      "country": "Boston",
+      "region": "East",
+      "id": "1"
+    },
+    {
+      "player_count": "1",
+      "players": [
+        {
+          "id": "67",
+          "name": "MarShon"
+        }
+      ],
+      "name": "Deltics00o",
+      "country": "Aoston",
+      "region": "Mast",
+      "id": "12"
+    },
+    {
+      "player_count": "1",
+      "players": [
+        {
+          "id": "25",
+          "name": "Ron"
+        }
+      ],
+      "name": "aaaa",
+      "country": "afdasq2",
+      "region": "wewer",
+      "id": "uSXCU2e"
+    },
+    {
+      "player_count": "0",
+      "players": [],
+      "name": ";sfakslkfje",
+      "country": "veerg",
+      "region": "kjvenrjerv",
+      "id": "kTWcD67"
+    }
+  ]
+}
